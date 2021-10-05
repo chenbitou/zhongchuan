@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/88120656/127428676-378f30d3-83e7-4591-b84c-b7b4bb1aef60.png)
 
 为提高审核效率，
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1006/054629_6ea7aa67_9824672.jpeg "ccplat-小程序QR.jpg")
 
 2）您可上传学位证或毕业证（其中之一）。
 ![image](https://user-images.githubusercontent.com/88120656/127428703-40bbef57-c014-48e9-a798-0d262e51bed6.png)
